@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{54B6E734-9B8D-43CB-B90A-0971913BCA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Core", "DesignPatterns.Core\DesignPatterns.Core.csproj", "{C79301CE-7F11-4C50-9D1E-C310FCA6987C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.AspNet", "DesignPatterns.AspNet\DesignPatterns.AspNet.csproj", "{C5AEA0BE-AF2E-4CF3-9FF5-A0C7A1237D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B6E734-9B8D-43CB-B90A-0971913BCA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B6E734-9B8D-43CB-B90A-0971913BCA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B6E734-9B8D-43CB-B90A-0971913BCA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B6E734-9B8D-43CB-B90A-0971913BCA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79301CE-7F11-4C50-9D1E-C310FCA6987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79301CE-7F11-4C50-9D1E-C310FCA6987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79301CE-7F11-4C50-9D1E-C310FCA6987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79301CE-7F11-4C50-9D1E-C310FCA6987C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AEA0BE-AF2E-4CF3-9FF5-A0C7A1237D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AEA0BE-AF2E-4CF3-9FF5-A0C7A1237D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AEA0BE-AF2E-4CF3-9FF5-A0C7A1237D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AEA0BE-AF2E-4CF3-9FF5-A0C7A1237D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
