@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoooder.Application", "FastFoooder.Application\FastFoooder.Application.csproj", "{605E48D6-51AC-4D7F-9545-957D18389E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoooder.Business", "FastFoooder.Business\FastFoooder.Business.csproj", "{5705EC4F-0BF6-460F-95A7-4ED5355CAC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoooder.Data", "FastFoooder.Data\FastFoooder.Data.csproj", "{38DE8FA0-1102-4C14-B9B1-989CA0E08A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605E48D6-51AC-4D7F-9545-957D18389E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605E48D6-51AC-4D7F-9545-957D18389E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605E48D6-51AC-4D7F-9545-957D18389E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605E48D6-51AC-4D7F-9545-957D18389E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5705EC4F-0BF6-460F-95A7-4ED5355CAC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5705EC4F-0BF6-460F-95A7-4ED5355CAC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5705EC4F-0BF6-460F-95A7-4ED5355CAC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5705EC4F-0BF6-460F-95A7-4ED5355CAC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DE8FA0-1102-4C14-B9B1-989CA0E08A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DE8FA0-1102-4C14-B9B1-989CA0E08A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DE8FA0-1102-4C14-B9B1-989CA0E08A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DE8FA0-1102-4C14-B9B1-989CA0E08A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
