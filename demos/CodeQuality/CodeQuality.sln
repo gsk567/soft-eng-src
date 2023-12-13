@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeQuality", "CodeQuality\CodeQuality.csproj", "{D0B17CEE-3D49-464E-AB03-89DA4E3F9DCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{BA0277A8-EA15-41A5-826E-8177E68E9C77}"
+	ProjectSection(SolutionItems) = preProject
+		stylecop.json = stylecop.json
+		App.ruleset = App.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B17CEE-3D49-464E-AB03-89DA4E3F9DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B17CEE-3D49-464E-AB03-89DA4E3F9DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B17CEE-3D49-464E-AB03-89DA4E3F9DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B17CEE-3D49-464E-AB03-89DA4E3F9DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
